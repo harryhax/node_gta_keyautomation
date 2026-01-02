@@ -1,0 +1,19 @@
+{
+  "name": "node_chiaki_gta_repeatkeys",
+  "version": "1.0.0",
+  "description": "key repeater for Chiaki",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Harry Scanlan [info@harryhax.com]",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "pixelmatch": "^7.1.0",
+    "robotjs": "^0.6.0",
+    "screenshot-desktop": "^1.15.3",
+    "sharp": "^0.34.3"
+  }
+}
