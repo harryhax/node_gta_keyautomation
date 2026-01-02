@@ -5,7 +5,7 @@ Automated screen-driven input bot for GTA V using Chiaki / Remote Play.
 ## Overview
 
 This project is a **Node.js automation tool** that simulates PlayStation controller input on a PC while **watching the game screen for visual cues**. It is designed to work with **Chiaki / PS Remote Play**, allowing scripted controller actions to be synchronized with **on-screen state changes** in GTA V.
-
+ 
 The core use case is automating repetitive in-game actions (menus, confirmations, exploits, grinding loops, etc.) while ensuring actions only proceed **after a specific visual condition appears on screen**.
 
 In short:
